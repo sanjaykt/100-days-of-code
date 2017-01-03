@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+
+### Day 0: January 03, 2017 - (joined the challenge)
+## Todya's Progress**: Just trying to figure out how github works! How to fork it and how to it... I'd like to work on my project at freecodecamp. I sumbitted the "show the local weather" project, but it does not work with Chrome broser because it used https protocol. I think, this the best place to start. I have been stuck at this for a few months... This 100 days challenge will motivate me to complete it and move forwards!
+## Link to the "Show The Local Weather" project (http://codepen.io/sanjay-t/pen/XKLXLj)
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
