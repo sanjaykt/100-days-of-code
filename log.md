@@ -5,10 +5,14 @@
 ## Todya's Progress**: Just trying to figure out how github works! How to fork it and how to it... I'd like to work on my project at freecodecamp. I sumbitted the "show the local weather" project, but it does not work with Chrome broser because it used https protocol. I think, this the best place to start. I have been stuck at this for a few months... This 100 days challenge will motivate me to complete it and move forwards!
 ## Link to the "Show The Local Weather" project (http://codepen.io/sanjay-t/pen/XKLXLj)
 
+--------------------------------------------------------------------------------------------
+
+I am keeping these example for reference
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Fixed CSS, worked on canvas functionality for the app. 
 
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
