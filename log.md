@@ -1,8 +1,22 @@
 # 100 Days Of Code - Log
 
 
-### Day 0: January 03, 2017 - (joined the challenge)
-## Todya's Progress**: Just trying to figure out how github works! How to fork it and how to it... I'd like to work on my project at freecodecamp. I sumbitted the "show the local weather" project, but it does not work with Chrome broser because it used https protocol. I think, this the best place to start. I have been stuck at this for a few months... This 100 days challenge will motivate me to complete it and move forwards!
+### Day 2: January 4, 2017 Wednesday
+
+**Today's Progress**:  Worked on "Show The Local Weather" project at FCC. I went back to this project after a 3 month of gap... The background pictures were not working as some of the links were broken. I decided to recreate this project with a single background image… Now it’s working
+
+Also, there is problem with http protocol at codepen.io. The project worked just fine on my local machine, but I have to have a extra link which is “https://cors-anywhere.herokuapp.com/” with open weather API call...
+
+**Thoughts** It’s great to be back and committed to learning programming
+
+**Link(s) to work**
+1. [My New Weather App](https://codepen.io/sanjay-t/pen/KaKQRe?editors=0010)
+
+
+
+### Day 1: January 03, 2017 - (joined the challenge)
+## Todya's Progress**: Just trying to figure out how github works! How to fork it and how to it... I'd like to work on my project at freecodecamp. I sumbitted the "show the local weather" project, but it does not work with Chrome broser because it used https protocol. I think, this is the best place to start. I have been stuck at this for a few months... This 100 days challenge will motivate me to complete it and move forwards!
+
 ## Link to the "Show The Local Weather" project (http://codepen.io/sanjay-t/pen/XKLXLj)
 
 --------------------------------------------------------------------------------------------
