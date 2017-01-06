@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 5, 2017 Thursday
+
+**Today's Progress**: Worked on FCC Weather App. Fixed CSS file, Added Country and displayed it with html. Added hover effect. I already submitted my Weather App, but I will re-submit this new one when I am satisfied with it. 
+Also, I worked through Udemy Web Developer Bootcamp. Got through Arrays, worked out some Algorithm problems
+
+**Thoughts** I need to improve my CSS skills. It would help if I knew more about colour theory, so that I can choose the right colour contrast… Also, my JavaScript knowledge is still basic. That’s why I am going through Udemy course; this will help me write better codes.
+
+**Link(s) to work**
+1. [My New Weather App](https://codepen.io/sanjay-t/full/KaKQRe/)
+2. [My Submitted Weather App (https://codepen.io/sanjay-t/full/JRdVoO/)
+
 
 ### Day 2: January 4, 2017 Wednesday
 
