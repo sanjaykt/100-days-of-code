@@ -9,7 +9,7 @@ Also, I worked through Udemy Web Developer Bootcamp. Got through Arrays, worked 
 
 **Link(s) to work**
 1. [My New Weather App](https://codepen.io/sanjay-t/full/KaKQRe/)
-2. [My Submitted Weather App (https://codepen.io/sanjay-t/full/JRdVoO/)
+2. [My Submitted Weather App](https://codepen.io/sanjay-t/full/JRdVoO/)
 
 
 ### Day 2: January 4, 2017 Wednesday
