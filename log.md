@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 3: January 6, 2017 Friday
+### Day 4: January 6, 2017 Friday
 **Today's Progress**: Since my JavaScript understanding is not that well, I went through Udemy course lessons and worked on small problems; worked out some algorithms. Once, I am somewhat through it, I will start the next FCC project on Wikipedia.
 
 **Thoughts** The Udemy course by Colt Steels is pretty good. It feels that it all coming together… Need to go through the whole course!
