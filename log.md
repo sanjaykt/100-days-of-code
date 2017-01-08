@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7, 2017 Saturday
+**Today's Progress**: Worked through JavaScript DOM manipulation exercise. Learned a lot about various JavaScript document.get methods. I used JQuery DOM manipulation methods in FCC weather app, but I didn’t have good understanding of them.
+Also, I am trying to figure out how to debug JavaScript file with WebStorm IDE. Figured out that, you cannot debug JavaScript file with DOM manipulation in WebStorm IDE because node.js does not understand the DOM structure. It has to debugged in Chrome console.
+**Thoughts** The whole process of learning this on my own is overwhelming. I hoping that it all comes together at the end.
+
+
 ### Day 4: January 6, 2017 Friday
 **Today's Progress**: Since my JavaScript understanding is not that well, I went through Udemy course lessons and worked on small problems; worked out some algorithms. Once, I am somewhat through it, I will start the next FCC project on Wikipedia.
 
