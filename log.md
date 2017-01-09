@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 8, 2017 Sunday
+**Today's Progress**: Did some JavaScript exercises with Udemy course. Researched how to connect Wikipedia API to my project. It’s very confusing. I had to look at the code others wrote in order to figure it out. I could not figure it reading documentation at Wikipedia; maybe I don’t know what I am looking at.
+**Thoughts** Once I know how to fetch data from wikipedia with the search term, it will be easy to iterate through it and display the data
+
+
 ### Day 5: January 7, 2017 Saturday
 **Today's Progress**: Worked through JavaScript DOM manipulation exercise. Learned a lot about various JavaScript document.get methods. I used JQuery DOM manipulation methods in FCC weather app, but I didn’t have good understanding of them.
 Also, I am trying to figure out how to debug JavaScript file with WebStorm IDE. Figured out that, you cannot debug JavaScript file with DOM manipulation in WebStorm IDE because node.js does not understand the DOM structure. It has to debugged in Chrome console. I started working on FCC Wikipedia project... However, I'd like to go through the Udemy course tutorials to improve my understanding on how $ajax and getJSON method works! There is no point in copying and pasting codes just to make something work! 
