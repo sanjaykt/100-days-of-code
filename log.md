@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 9, 2017 Monday
+**Today's Progress**: Spent two hours trying to figure out the how to write query string to get data from wikipedia for my FCC Wikipedia project. Read documentation at https://www.mediawiki.org/wiki/API:Main_page . This has been a challenge. First of all, I don’t what I was looking at.
+
+So looked at the code (API call) someone wrote in the project and then try to figure out why it was written the way it was written.
+
+There is something call “generator=search” that would bring the result to a search term. Then there is extract and parameters suffix “ex” that I could not figure out what it was.
+Also, I worked on writing snippets of code for Udemy JavaScript course.
+
+**Thoughts** This is frustrating business because of the amount of information I have digest and remember, but it is worth it at the end
+
+
 ### Day 6: January 8, 2017 Sunday
 **Today's Progress**: Did some JavaScript exercises with Udemy course. Researched how to connect Wikipedia API to my project. It’s very confusing. I had to look at the code others wrote in order to figure it out. I could not figure it reading documentation at Wikipedia; maybe I don’t know what I am looking at.
 **Thoughts** Once I know how to fetch data from wikipedia with the search term, it will be easy to iterate through it and display the data
