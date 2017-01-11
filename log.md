@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10, 2017 Tuesday
+**Today's Progress**: Did not work on  wikipedia project today instead I worked through some JavaScript exercises. I am in process of building a color game using JavaScript.
+
+I singed up for https://javascript30.com/  This may be the best way to insure that I complete one assingment every day and get practice building something in JavaScript.
+I started reading book called “You don’t know JS”. It’s is free and it’s on github
+
+**Thoughts** I am determined to keep working at it.
+
+
 ### Day 7: January 9, 2017 Monday
 **Today's Progress**: Spent two hours trying to figure out the how to write query string to get data from wikipedia for my FCC Wikipedia project. Read documentation at https://www.mediawiki.org/wiki/API:Main_page . This has been a challenge. First of all, I don’t what I was looking at.
 
