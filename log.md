@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 11, 2017 Wednesday
+
+**Today's Progress**: Worked on first exercise of JavaScript 30. Encountered some ES6 format. Took some time to figure out how to write it in Webstorm without it flagging it wrong code. 
+Learned about different tags like <kbd> <audio>
+
+**Thoughts** got to keep it up
+
+
 ### Day 8: January 10, 2017 Tuesday
 **Today's Progress**: Did not work on  wikipedia project today instead I worked through some JavaScript exercises. I am in process of building a color game using JavaScript.
 
