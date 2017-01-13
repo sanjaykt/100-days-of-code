@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 12, 2017 Thursday
+
+**Today's Progress**:  Finished the first project called “Drum kit”. It’s first of the 30 projects that I will be working on and learning from it
+Also, I went through some WebStorm tutorial and learn hot to integrate git and github. I integrated the git and pushed the repository on github
+
+**Thoughts** got to keep it up...
+
+
 ### Day 9: January 11, 2017 Wednesday
 
 **Today's Progress**: Worked on first exercise of JavaScript 30. Encountered some ES6 format. Took some time to figure out how to write it in Webstorm without it flagging it wrong code. 
