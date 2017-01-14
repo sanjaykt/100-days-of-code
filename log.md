@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 13, 2017
+
+**Today's Progress** Finished 2nd project of JavaScript30. Leaned above CSS transform : rotate and transform properties
+
 ### Day 10: January 12, 2017 Thursday
 
 **Today's Progress**:  Finished the first project called “Drum kit”. It’s first of the 30 projects that I will be working on and learning from it
