@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 14, 2017 Saturday
+
+**Today's Progress**:  Finished the third project called “Playing with CSS Variables and JS”. CSS variables is a new topic I learned today. Also, I learned about dataset property to access our custom data that starts with data-something
+
+Moreover, I am making a to-do list with a Udemy course. And, I am learning a lot about JQuery and different methods that can be used easily. I am also trying to read JQuery documentation, so as to rely on it in the future.
+
+**Thoughts** It’s frustrating at a time because there is so much to know, understand and apply. But, if I keep at it, one day it will all fall in place!
+
+
 ### Day 11: January 13, 2017
 
 **Today's Progress** Finished 2nd project of JavaScript30. Leaned above CSS transform : rotate and transform properties
