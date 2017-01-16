@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 15, 2017 Sanday
+
+**Today's Progress**:  Working through the 3rd project at JavaScript30.com . In this project, I am learning Array methods like filter(), map(), reduce() ext. It’s is little challenging. I will have work on it, practice it
+Also, I am progressing through Udemy course making Todo List
+
+**Thoughts** Lot to learn… 
+
+
 ### Day 12: January 14, 2017 Saturday
 
 **Today's Progress**:  Finished the third project called “Playing with CSS Variables and JS”. CSS variables is a new topic I learned today. Also, I learned about dataset property to access our custom data that starts with data-something
