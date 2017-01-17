@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 16, 2017 Monday
+
+**Today's Progress**:  Worked through 4rth project of JavaScript30 and learned more about Array.Prototype methods.
+Fished the worked alone “Todo List” project of Udemy Web Developer Bootcamp course at Udemy.
+
+**Thoughts** 
+
+
 ### Day 13: January 15, 2017 Sanday
 
 **Today's Progress**:  Working through the 3rd project at JavaScript30.com . In this project, I am learning Array methods like filter(), map(), reduce() ext. It’s is little challenging. I will have work on it, practice it
