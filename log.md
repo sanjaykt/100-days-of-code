@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 17, 2017 Tuesday
+
+**Today's Progress**:  Worked through Udemy Web Development Bootcamp work alone project called Patatap clone.
+I learned how to include external library and learned to how to use it in our project.
+
+**Thoughts**  Still a long way to go… but I am not constantly putting time in it.
+
+
 ### Day 14: January 16, 2017 Monday
 
 **Today's Progress**:  Worked through 4rth project of JavaScript30 and learned more about Array.Prototype methods.
