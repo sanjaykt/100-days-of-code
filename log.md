@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+
+### Day 16: January 18, 2017 Wednesday
+
+**Today's Progress**:  Finished Front End part of Web Developer Bootcamp Udemy course and starting with backend
+Also, worked through Project 6 of JavaScript30. Learned ES6 fetch() method and how to work with data it fetches.
+Read the online book on github called “You don’t know JS”
+
+**Thoughts**  Difficult stuff. Too many loose pieces to put together
+
+
 ### Day 15: January 17, 2017 Tuesday
 
 **Today's Progress**:  Worked through Udemy Web Development Bootcamp work alone project called Patatap clone.
