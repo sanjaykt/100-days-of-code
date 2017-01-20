@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 19, 2017 Thursday
+
+**Today's Progress**:  Started with Back End part of the Web Developer Bootcamp course at Udemy. Wrote my first Express app. It’s very small, just a baby steps… Learning fundamental first before understanding and writing complex codes.
+Also, started with Wikipedia Viewer app. Did some research and set up files on my computer! Tomorrow, I will starting with actual coding
+
+**Thoughts**  Now it’s starting make sense what Node js is an what Express is. Express is a framework that we use to set up our web app. It’s a template that is lightweight meaning we have more flexibility of how we want to set up. At the same time, it’s little difficult to start from. However, I have great teaching Colt Steels. He explains this concept very well… really appreciate his way of explaining
+
 
 ### Day 16: January 18, 2017 Wednesday
 
