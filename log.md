@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 20, 2017 Friday
+
+**Today's Progress**:  Worked on FCC Wikipedia Viewer app. HTML and CSS files are done. Made a successful API call to Wikipedia.
+Now, I need to display the result in a formatted way on the page
+
+**Thoughts**  This is very time consuming… Hopeful worth it one day!
+
+
 ### Day 17: January 19, 2017 Thursday
 
 **Today's Progress**:  Started with Back End part of the Web Developer Bootcamp course at Udemy. Wrote my first Express app. It’s very small, just a baby steps… Learning fundamental first before understanding and writing complex codes.
