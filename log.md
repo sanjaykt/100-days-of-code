@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 19: January 21, 2017 Saturday
+
+**Today's Progress**:  Worked on Wikipedia Viewer app. Got the API call data display, but having trouble getting the page to refresh
+
+**Thoughts**  I need to understand HTML more fundamentally. I am having trouble understanding the codes
+
+
 ### Day 18: January 20, 2017 Friday
 
 **Today's Progress**:  Worked on FCC Wikipedia Viewer app. HTML and CSS files are done. Made a successful API call to Wikipedia.
