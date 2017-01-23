@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 20: January 22, 2017 Sunday
+
+**Today's Progress**:  Worked more on Wikipedia Viewer app. Now it display title, extract and link on my app. I used opensearch method. Still lot more to go… I still need to show search suggestion as user types in the input. But, some progress is made today.
+
+**Thoughts**  Tough stuff…
+
+
 ### Day 19: January 21, 2017 Saturday
 
 **Today's Progress**:  Worked on Wikipedia Viewer app. Got the API call data display, but having trouble getting the page to refresh
