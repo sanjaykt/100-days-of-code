@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 21: January 23, 2017 Monday
+
+**Today's Progress**:  Today I learned little bit about React and went through video tutorials and exercise on Node.js and Express.js. Learned how to set up route and template called ejs (Embedded JavaScript)
+Also, looked into different IDE’s to see which one to use. I looked at Atom, VS Code and WebStorm. I decided to stick with WebStorm, even if you to pay for it, since I have already started to use it. Learn it well so that I can transfer to different IDE later if I want to.
+
+**Thoughts**  Setting up route in Express and how it send back rendered HTML pages! Cool stuff.
+
 
 ### Day 20: January 22, 2017 Sunday
 
