@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+
+### Day 22: January 24, 2017 Tuesday
+
+**Today's Progress**:  Today I worked on JavaScript 30 challenge 7. It was on array. I learned how to use Array.protocol.some, Array.protocol.every, Array.protocol.find, Array.protocol.findIndex methods. Very useful methods to learn and utilize.
+
+**Thoughts**  Keep going!!!
+
+
 ### Day 21: January 23, 2017 Monday
 
 **Today's Progress**:  Today I learned little bit about React and went through video tutorials and exercise on Node.js and Express.js. Learned how to set up route and template called ejs (Embedded JavaScript)
