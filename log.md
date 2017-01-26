@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 23: January 25, 2017 Wednesday
+
+**Today's Progress**:  Today I worked on Udemy course on back end. Also, I worked on some algorithm challenge on freecodecamp
+
+**Thoughts**  Algorithm challenge can be very difficult. I took my time with but I got two done!!!
+
+
 ### Day 22: January 24, 2017 Tuesday
 
 **Today's Progress**:  Today I worked on JavaScript 30 challenge 7. It was on array. I learned how to use Array.protocol.some, Array.protocol.every, Array.protocol.find, Array.protocol.findIndex methods. Very useful methods to learn and utilize.
