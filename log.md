@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 26, 2017 Thursday
+
+**Today's Progress**: Went through some video tutorials and exercise and leaned back end technology using Node.js and Express.js
+
+**Thoughts**  It was a slow day… didn’t get much done!
+
 
 ### Day 23: January 25, 2017 Wednesday
 
