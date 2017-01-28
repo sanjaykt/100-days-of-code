@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 27, 2017 Thursday
+
+**Today's Progress**: Kept going through video tutorials of Web Dev course at Udemy. Learned more about Node.js and Express.js
+
+**Thoughts**  Another slow day… Got to pick up my speed
+
+
 ### Day 24: January 26, 2017 Thursday
 
 **Today's Progress**: Went through some video tutorials and exercise and leaned back end technology using Node.js and Express.js
