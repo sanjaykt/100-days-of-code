@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 25: January 27, 2017 Thursday
+
+### Day 26: January 28, 2017 Saturday
+
+**Today's Progress**: Started working on YelpCamp code alone with Web Dev course at Udemy
+
+**Thoughts**  Just about an hour and half only.. Need to spend more time coding
+
+
+### Day 25: January 27, 2017 Friday
 
 **Today's Progress**: Kept going through video tutorials of Web Dev course at Udemy. Learned more about Node.js and Express.js
 
