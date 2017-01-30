@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 27: January 29, 2017 Sunday
+
+**Today's Progress**: Went through two JavaSctip30 tutorials and @Udemy web dev course. Learned how HTML canvas works, not so much in details, but just what Canvas is. Also, learned some useful console commands for JavaScript debugging.
+Learned how to set up routes. How to get data from a form input and pass it to post request in a route...
+
+**Thoughts**  Backend looks interesting and challenging. I’d like to learn about it more and perhaps work in backend and not so much in frontend
+
+
 ### Day 26: January 28, 2017 Saturday
 
 **Today's Progress**: Started working on YelpCamp code alone with Web Dev course at Udemy
