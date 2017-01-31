@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 
+### Day 28: January 30, 2017 Monday
+
+**Today's Progress**: Installed Mongodb and learned basic commands. It took some time for  me figure out how to successfully run it. Also, I installed homebrew to install Mongodb. 
+
+Also, I spent some time learning about installing Virtualbox and Vagrant… research some more development tools
+
+**Thoughts**  It’s easy to get diverted to something else while you are coding. Today, I spent a lot of time away from actual coding exploring development tools
+
+
 ### Day 27: January 29, 2017 Sunday
 
 **Today's Progress**: Went through two JavaSctip30 tutorials and @Udemy web dev course. Learned how HTML canvas works, not so much in details, but just what Canvas is. Also, learned some useful console commands for JavaScript debugging.
