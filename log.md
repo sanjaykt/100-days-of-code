@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+### Day 29: January 31, 2017 Tuesday
+
+**Today's Progress**: Went through Udemy Web Dev course, backend section. Learned to connect Mongodb and insert data and retrieve data. (data persistency).
+
+Installed Path Finder 7 on my Mac. Spent some time learning this tool. It’s very useful tool. I alway felt that Finder was not as good of a tool. I am happy that I came across this. Also, installed 1password…
+So, I didn’t spend as much time in actual coding… but, it’s going to help me in many ways!!! 
+
+**Thoughts**  Need to spend time doing actual coding...
+
+
 ### Day 28: January 30, 2017 Monday
 
 **Today's Progress**: Installed Mongodb and learned basic commands. It took some time for  me figure out how to successfully run it. Also, I installed homebrew to install Mongodb. 
