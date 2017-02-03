@@ -1,6 +1,26 @@
 # 100 Days Of Code - Log
 
 
+### Day 31: February 2, 2017 Thursday
+
+**Today's Progress**: Progressing through Udemy Web Dev course… Building alone Blog site using Node.js, express.js and mongoose.js. I am learning to use RESTful routing
+
+RESTfull have following routes
+7 Route
+Index 	/blogs			    GET
+New		  /blogs/new		  GET
+Create	/blogs/:id		  POST
+Show		/blogs/:id		  GET
+Edit		/blogs/:id/edit		GET
+Update	/blogs/:id		  PUT
+Destroy	/blogs/:id		  DELETE
+
+
+### Day 30: February 1, 2017 Wednesday
+
+**Today's Progress**: Worked alone Udemy course and learn about RESTful routing using Node.js and Express.js
+
+
 ### Day 29: January 31, 2017 Tuesday
 
 **Today's Progress**: Went through Udemy Web Dev course, backend section. Learned to connect Mongodb and insert data and retrieve data. (data persistency).
