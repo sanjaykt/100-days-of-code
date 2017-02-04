@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
 
+### Day 32: February 3, 2017 Friday
+
+**Today's Progress**: Learned RESTful routing and data association using mongoose.js, node.js and express.js
+
+**Thoughts**  I am learning some very essentials topics and I need to practice it with some project, but first, let me learn it property...
+
+
+
 ### Day 31: February 2, 2017 Thursday
 
 **Today's Progress**: Progressing through Udemy Web Dev course… Building alone Blog site using Node.js, express.js and mongoose.js. I am learning to use RESTful routing
@@ -16,9 +24,11 @@ Update	/blogs/:id		  PUT
 Destroy	/blogs/:id		  DELETE
 
 
+
 ### Day 30: February 1, 2017 Wednesday
 
 **Today's Progress**: Worked alone Udemy course and learn about RESTful routing using Node.js and Express.js
+
 
 
 ### Day 29: January 31, 2017 Tuesday
