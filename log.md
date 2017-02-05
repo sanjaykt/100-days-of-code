@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 4, 2017 Saturday
+
+**Today's Progress**: Went through few more sections of Udemy course on backend side. Also, worked on FCC intermediate algorithm scripting.
+
+**Thoughts**  Algorithm is challenging… giving me second thought if I should continue doing this. It takes a lot of time to get it right. I guess with lot of practice and experience, it can get easy!!!
+
 
 ### Day 32: February 3, 2017 Friday
 
