@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+
+### Day 34: February 5, 2017 Sunday
+
+**Today's Progress**: Worked on Udemy web dev course… Learned to set up routes!!! Next authentication...
+
+
 ### Day 33: February 4, 2017 Saturday
 
 **Today's Progress**: Went through few more sections of Udemy course on backend side. Also, worked on FCC intermediate algorithm scripting.
