@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 35: February 6, 2017 Monday
+
+**Today's Progress**: Leaned little bit of user authentication using passportjs and other modules. Started reading the online book called “You don’t know JS”
+
+**Thoughts**  Pretty slow progress today
+
+
 ### Day 34: February 5, 2017 Sunday
 
 **Today's Progress**: Worked on Udemy web dev course… Learned to set up routes!!! Next authentication...
