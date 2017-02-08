@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 7, 2017 Tuesday
+
+**Today's Progress**: Worked along with Web Dev Udemy course. Learned to set up authentication using passportjs, passport-local, passport-local-mongoose…
+There are so many loose pieces to put together… At least I was able to understand how it works now
+
+**Thoughts**  I should be able to finish this course this week. I can start learning React from next week
+
 
 ### Day 35: February 6, 2017 Monday
 
